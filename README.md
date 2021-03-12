@@ -1,4 +1,4 @@
-# View Vector Workflows [here](https://github.ncsu.edu/aallis/Vector-Workflows/blob/master/Alexander_Allis_Vector_Workflow.pdf).
+# View Vector Workflows [here](https://github.com/alexanderallis/Technical_Writing/blob/main/Alexander_Allis_Vector_Workflow.pdf).
 
 ### Overview
 
